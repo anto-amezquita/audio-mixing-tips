@@ -1,3 +1,13 @@
+> **audio-mixing-tips — parked 2026-09-30.**
+>
+> This repo was set up to build a searchable site for a 100-entry mixing library. The build is stopped: the goal was learning one Ableton effect rack, and a search tool answers a retrieval question that doesn't need answering at four devices. The library is used as a markdown file instead.
+>
+> Reasoning in `decisions/0004-park-the-site-build.md`. Spec, ADRs and backlog are intact if it resumes. One loose end: the library itself was never committed — see the first item in `docs/backlog.md`.
+>
+> Everything below is the unmodified README of the AI Product Starter Kit this repo was scaffolded from.
+
+---
+
 # AI Product Starter Kit
 
 A starting point for AI-assisted products that have to last longer than one
